@@ -1,2 +1,2 @@
-# AngularPractise
+# AngularPractice
 Learning Angular
